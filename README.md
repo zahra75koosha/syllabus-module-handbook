@@ -1,4 +1,4 @@
-# Academic Transcripts and Course Descriptions
+# Academic Course Descriptions
 
 The repository includes course lists, academic transcripts, and course descriptions for the following qualifications:
 
